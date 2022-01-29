@@ -39,10 +39,7 @@ while count < 1075: # There are 1075 data in proxies.json.
      time.sleep(10) # Code waits 10 seconds before changing proxy. You can change the waiting time.
      driver.quit()
 
-# Fake clicks are not real viewiers, visitors, etc. 
-# You can do better without fake click.
 
-# © yusufgssl 2021 -- https://github.com/yusufgssl -- https://yusufgssl.github.io/
      
 
 
